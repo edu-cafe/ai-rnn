@@ -7,7 +7,7 @@
 <br>- 감성 분석(Sentiment Analysis) 실습 - IMDB 영화평
 <br>- 토픽 모델링(Topic Modeling) 실습 - 20 뉴스그룹
 <br>- 문서 군집화(Document Clustering) 실습 - Opinion Review
-<br>-문서의 유사도(Cosine Similarity) 실습 - Opinion Review
+<br>- 문서의 유사도(Cosine Similarity) 실습 - Opinion Review
 *Word Embedding - Word2Vec
 ## 2. RNN/GRU/LSTM 알고리즘의 이해와 활용  
 * Why sequence models & Notation
